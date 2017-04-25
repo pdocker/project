@@ -23,5 +23,5 @@ de LDAP distribuïdes per els diferents tipus de contingut i relaciones entre
 elles per agilitzar les consultes i altres aspectes a investigar.  
 
 ## Preparació i documentació utilitzada
-[Dockerfile Documentation]https://docs.docker.com/engine/reference/builder/
+[Dockerfile Documentation]https://docs.docker.com/engine/reference/builder/  
 [Markdown Documentation]http://desarrollandowebsdinamicas.blogspot.com.es/2013/03/escribir-archivos-markdown-en-sublime.html
