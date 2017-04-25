@@ -1,0 +1,12 @@
+#! /bin/bash
+echo "starting slapd..."
+/usr/sbin/slapd -u ldap -h "ldap:/// ldaps:/// ldapi:///" && echo "ok"
+echo "starting sshd-keygen"
+/usr/sbin/sshd-keygen && echo "ok"
+echo "starting sshd"
+#/usr/sbin/sshd -D $OPTIONS && echo "ok"
+/usr/sbin/sshd && echo "ok"
+echo "starting nscd"
+/usr/sbin/nscd && echo "ok"
+echo "starting nslcd"
+/usr/sbin/nslcd && echo "ok"

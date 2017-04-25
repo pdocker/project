@@ -1,0 +1,32 @@
+dn: cn=Pau Pou,ou=usuaris,dc=edt,dc=org
+
+dn: cn=Pere Pou,ou=usuaris,dc=edt,dc=org
+
+dn: cn=Anna Pou,ou=usuaris,dc=edt,dc=org
+
+dn: cn=Marta Mas,ou=usuaris,dc=edt,dc=org
+
+dn: cn=Jordi Mas,ou=usuaris,dc=edt,dc=org
+
+dn: cn=Admin System,ou=usuaris,dc=edt,dc=org
+
+dn: cn=user01,ou=usuaris,dc=edt,dc=org
+
+dn: cn=user02,ou=usuaris,dc=edt,dc=org
+
+dn: cn=user03,ou=usuaris,dc=edt,dc=org
+
+dn: cn=user04,ou=usuaris,dc=edt,dc=org
+
+dn: cn=user05,ou=usuaris,dc=edt,dc=org
+
+dn: cn=user06,ou=usuaris,dc=edt,dc=org
+
+dn: cn=user07,ou=usuaris,dc=edt,dc=org
+
+dn: cn=user08,ou=usuaris,dc=edt,dc=org
+
+dn: cn=user09,ou=usuaris,dc=edt,dc=org
+
+dn: cn=user10,ou=usuaris,dc=edt,dc=org
+
