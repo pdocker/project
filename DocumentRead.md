@@ -25,3 +25,4 @@ elles per agilitzar les consultes i altres aspectes a investigar.
 ## Preparació i documentació utilitzada
 [Dockerfile Documentation](https://docs.docker.com/engine/reference/builder/)  
 [Markdown Documentation](http://desarrollandowebsdinamicas.blogspot.com.es/2013/03/escribir-archivos-markdown-en-sublime.html)
+[LDAP Documentation](https://www.openldap.org/doc/admin24/)

@@ -1,0 +1,11 @@
+#pdocker account
+Host pdocker-github.com
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/github
+
+#pprieto8 account
+Host pprieto8-github.com
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/id_rsa
