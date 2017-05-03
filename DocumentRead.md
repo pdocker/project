@@ -27,3 +27,5 @@ elles per agilitzar les consultes i altres aspectes a investigar.
 [Markdown Documentation](http://desarrollandowebsdinamicas.blogspot.com.es/2013/03/escribir-archivos-markdown-en-sublime.html)
 [LDAP Documentation](https://www.openldap.org/doc/admin24/)
 [LDAP Object](http://www.alvestrand.no/objectid/1.3.6.1.4.1.1466.115.121.1.html)
+[LDAP Start](https://blog.christophersmart.com/articles/openldap-how-to-fedora/)
+[LDAP More](https://www.digitalocean.com/community/tutorials/how-to-encrypt-openldap-connections-using-starttls)
