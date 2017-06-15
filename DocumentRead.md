@@ -26,4 +26,16 @@ elles per agilitzar les consultes i altres aspectes a investigar.
 
 Primerament, he generat dos dockers mitjançant la documentació oficial  
 de dockerfile a partir de dos scripts que cadascun d'ells realitza  
-l'instal·lació dels paquets necesaris pel funcionament 
+l'instal·lació dels paquets necesaris pel funcionament dels dos servers  
+de LDAP.  
+Cada server realitza la seva funció:  
+## Server 1:  
+Funciona a partir d'una base de dades LDAP amb certificats que tenen una entitat  
+certificadora que els avala i están configurats amb protecció TLS per tant, es poden  
+realitzar connexions segures alhora de fer consultes. També, s'ha buscat fer l'implementació  
+de la tecnologia overlay per a poder treballar amb la traducció de referrals des d'un arbre a un  
+altre. Aquesta tecnologia que es basa en el Distributed Directory Service y permet fer consultes  
+client desde un servidor a l'altre. També s'ha procurat configurar el servei slapd per a que accepti  
+tant connexions amb seguretat ldaps:// com connexions sense seguretat ldap://.
+## Server 2:
+
