@@ -1,19 +1,19 @@
 # Projecte DOCKER/LDAP/TLS (Pablo Prieto)
 
-##Docker
+## Docker
 
 Docker es un proyecto de código abierto con el que fácilmente podremos crear "contenedores".  
 Estos contenedores de Docker podríamos definirlos como máquinas virtuales ligeras , menos  
 exigentes con los chips y memorias de los equipos donde se ejecutarán. Las características  
 principales de estos contenedores son la portabilidad, la ligereza y la autosuficiencia  
 
-##Ldap
+## Ldap
 
 LDAP son las siglas de Lightweight Directory Access Protocol que hacen referencia a un protocolo  
 a nivel de aplicación que permite el acceso a un servicio de directorio ordenado y distribuido  
 para buscar diversa información en un entorno de red.  
 
-##TLS
+## TLS
 
 El protocolo TLS (Transport Layer Security) es una evolución del protocolo SSL (Secure Sockets Layer),  
 es un protocolo mediante el cual se establece una conexión segura por medio de un canal cifrado entre el cliente y servidor.  
